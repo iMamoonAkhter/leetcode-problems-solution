@@ -4,10 +4,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/yourusername/leetcode-solutions?style=flat-square)](https://github.com/yourusername/leetcode-solutions/network)
 [![Last Updated](https://img.shields.io/github/last-commit/yourusername/leetcode-solutions?style=flat-square)](https://github.com/yourusername/leetcode-solutions/commits/main)
 
-## 🐍 My Coding Journey
-
-![Contribution Snake Game](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
-
 ## 📚 Problem Solutions
 
 ### 🔥 Top Problems
